@@ -22,3 +22,9 @@ These SQL scripts organize queries recovered from the project's BigQuery Job his
 These are the recovered queries supplied for this project. They do **not** represent every possible query used to build every BigQuery table. Creation SQL for first-touch, last-touch, time-decay, identity mapping, customer profile, RFM, segmentation, ROI, and CPA was not included in the recovered messages and is not fabricated here.
 
 The build scripts use `CREATE OR REPLACE TABLE`; they are included as source documentation. Do not execute them again unless you intend to replace the existing tables.
+
+
+## Demo Videos
+
+1. [DA-02 Demo Video 1](https://drive.google.com/file/d/1vTceEtW_ZjWCtPNyoKbJtMTorONld3LK/view?usp=sharing)
+2. [DA-02 Demo Video 2](https://drive.google.com/file/d/1RZEJmwO4uh4anlfcsOdkIaxFRHYFDywB/view?usp=sharing)
